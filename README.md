@@ -1,6 +1,9 @@
 [ ] - NavigationView
+
 [ ] - CoordinatorLayout + NestedScrolling + CollapsibleToolBarLayout (Building Dialer App UI)
+
 [ ] - ViewPager
+
 [ ] - Animation & SharedTransitions
 
 [ ] - Dummy App
